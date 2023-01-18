@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: right;
+    padding: 0px;
+    margin: 0px;
+}
